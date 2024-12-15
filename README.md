@@ -21,7 +21,7 @@ npm install express mongoose dotenv body-parser nodemon
   .then(()=>console.log("MongoDB connected successfully!"))
   .catch((error)=>console.log(error))
 
-- Vendor Registration
+<!-- - Vendor Registration
 - Creating models - each vendor ki authentication echi products add chesukovachu
   Vendor ki unique Authentication kosam username, email password estam
-  vendorSchema properties to eni records iyina create cheyachu -- avi tables lo save cheyaniki Controllers & Routes kavali
+  vendorSchema properties to eni records iyina create cheyachu -- avi tables lo save cheyaniki Controllers & Routes kavali -->
